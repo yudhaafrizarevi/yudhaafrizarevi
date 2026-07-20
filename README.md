@@ -1,16 +1,71 @@
-## Hi there 👋
+👋 Hi, I'm Yudha Afriza Revi
 
-<!--
-**yudhaafrizarevi/yudhaafrizarevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer • Cloud Engineer • Linux Enthusiast
 
-Here are some ideas to get you started:
+-----------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+🎓 Final-year Computer Engineering Student
+🏫 Telkom University
+
+-----------------------------------------------------
+
+🛠 Tech Stack
+
+Linux
+Docker
+Kubernetes
+Terraform
+Vagrant
+Apache
+Nginx
+MySQL
+Python
+Bash
+
+-----------------------------------------------------
+
+📌 Featured Projects
+
+🔐 Network Security Monitoring (IPS)
+
+☁️ WordPress Infrastructure as Code
+
+🌐 Apache Web Deployment
+
+-----------------------------------------------------
+
+📈 GitHub Stats
+
+🔥 GitHub Streak
+
+📊 Most Used Languages
+
+-----------------------------------------------------
+
+📚 Currently Learning
+
+Docker
+
+Kubernetes
+
+Terraform
+
+AWS
+
+GitHub Actions
+
+-----------------------------------------------------
+
+🏆 Publications
+
+IEEE ICITCOM 2026 (Accepted)
+
+-----------------------------------------------------
+
+📫 Contact
+
+LinkedIn
+
+Email
