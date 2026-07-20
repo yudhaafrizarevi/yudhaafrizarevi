@@ -92,9 +92,9 @@ Implementation of a Snort-based Intrusion Prevention System (IPS) with ELK Stack
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yudhaafrizarevi&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yudhaafrizarevi&show_icons=true&theme=github_dark&hide_border=true"/>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhaafrizarevi&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yudhaafrizarevi&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
