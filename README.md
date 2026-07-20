@@ -1,75 +1,54 @@
 <h1 align="center">Hi 👋, I'm Yudha Afriza Revi</h1>
 
-<h3 align="center">
-Final-year Computer Engineering Student • DevOps & Cloud Enthusiast
-</h3>
-
 <p align="center">
-Passionate about Linux, Infrastructure as Code, Cloud Computing, Automation, and Network Security.
+Final-year Computer Engineering Student at Telkom University
 </p>
 
 <p align="center">
-<a href="https://github.com/yudhaafrizarevi">
-<img src="https://komarev.com/ghpvc/?username=yudhaafrizarevi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</a>
-
-<a href="https://github.com/yudhaafrizarevi?tab=followers">
-<img src="https://img.shields.io/github/followers/yudhaafrizarevi?label=Followers&style=flat"/>
-</a>
-
+💻 DevOps • ☁️ Cloud Computing • 🐧 Linux • 🚀 Infrastructure as Code
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 Final-year Computer Engineering student at **Telkom University**
+I'm a final-year Computer Engineering student passionate about **DevOps**, **Cloud Computing**, **Linux System Administration**, and **Infrastructure Engineering**.
 
-💻 Interested in:
-
-- DevOps Engineering
-- Cloud Computing
-- Linux System Administration
-- Infrastructure as Code (IaC)
-- Network Security
-
-🔬 Research experience in **Snort-based Intrusion Prevention System (IPS)** for IoT Networks.
-
-🛠 Enjoy automating infrastructure, deploying Linux servers, and building scalable systems.
+I enjoy automating infrastructure, deploying Linux servers, and building secure, scalable systems through Infrastructure as Code (IaC) and automation.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Operating Systems
+**Operating Systems**
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### DevOps
+**DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-### Web & Database
+**Web & Database**
 
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Programming
+**Programming**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
 ### 🚀 WordPress Infrastructure as Code using Vagrant
 
-Provision a complete WordPress environment automatically using **Vagrant**, **Apache**, **MySQL**, and **PHP**.
+Automated deployment of a complete WordPress environment using **Vagrant**, **Apache**, **MySQL**, and **PHP**.
 
 🔗 https://github.com/yudhaafrizarevi/wordpress-iac-vagrant
 
@@ -77,64 +56,31 @@ Provision a complete WordPress environment automatically using **Vagrant**, **Ap
 
 ### 🌐 Apache Web Deployment using Vagrant
 
-Infrastructure as Code project that provisions a **CentOS Stream 9** virtual machine and automatically deploys Apache HTTP Server.
+Automated Apache HTTP Server deployment on **CentOS Stream 9** using Infrastructure as Code.
 
 🔗 https://github.com/yudhaafrizarevi/vagrant-apache-web-deployment
 
 ---
 
-### 🔐 Network Security Monitoring *(Coming Soon)*
+## 📚 Currently Learning
 
-Implementation of a Snort-based Intrusion Prevention System (IPS) with ELK Stack for IoT Network Security.
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yudhaafrizarevi&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-# 📚 Currently Learning
-
+- Docker
 - Kubernetes
 - Terraform
 - AWS Cloud
-- CI/CD Pipelines
-- Infrastructure Automation
+- CI/CD
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
-- 📄 First Author – Accepted Paper at **IEEE ICITCOM 2026**
-- 🛡 Developed a Snort-based Intrusion Prevention System for IoT Networks
-- 💻 Built Infrastructure as Code projects using Vagrant
-- 🔧 IT Support Internship Experience
+- 📄 First Author – IEEE ICITCOM 2026 (Accepted)
+- 🛡 Research on Snort-based Intrusion Prevention System (IPS)
 - 👨‍🏫 Laboratory Assistant – Computer Engineering
 
 ---
 
-# 📫 Connect with Me
+## 📫 Connect with Me
 
-<p>
-
-<a href="https://linkedin.com/in/yudhaafrizarevi">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:yudhaafrizarevi@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<i>"Building reliable infrastructure through automation, security, and continuous learning."</i>
-
-</p>
+- 💼 LinkedIn: https://linkedin.com/in/yudhaafrizarevi
+- 📧 Email: yudhaafrizarevi@gmail.com
