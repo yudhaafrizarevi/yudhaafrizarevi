@@ -104,8 +104,8 @@ Snort-based Intrusion Prevention System with ELK Stack for IoT Network Security.
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: https://linkedin.com/in/yudhaafrizarevi
+- 📧 Email: yudhaafrizarevi@gmail.com
 
 ---
 
