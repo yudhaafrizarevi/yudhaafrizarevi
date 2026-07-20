@@ -89,17 +89,13 @@ Implementation of a Snort-based Intrusion Prevention System (IPS) with ELK Stack
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yudhaafrizarevi&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yudhaafrizarevi&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhaafrizarevi&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudhaafrizarevi&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
-
-> **Note:** If these cards don't load, the public service may be temporarily rate-limited. This is a known limitation of the public GitHub Readme Stats service. :contentReference[oaicite:0]{index=0}
 
 ---
 
