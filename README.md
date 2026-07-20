@@ -76,7 +76,7 @@ Automated Apache HTTP Server deployment on **CentOS Stream 9** using Infrastruct
 
 - 📄 First Author – IEEE ICITCOM 2026 (Accepted)
 - 🛡 Research on Snort-based Intrusion Prevention System (IPS)
-- 👨‍🏫 Laboratory Assistant – Computer Engineering
+- 👨‍🏫 Laboratory Security Assistant – Computer Engineering
 
 ---
 
