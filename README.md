@@ -190,7 +190,6 @@ I'm currently expanding my knowledge in:
 # 🏆 Achievements & Experience
 
 - 📄 **First Author** — IEEE ICITCOM 2026, Accepted
-- 🛡️ Research on **Snort-based Intrusion Prevention System (IPS)**
 - 👨‍🏫 **Laboratory Security Assistant** — Computer Engineering
 - 🐧 Hands-on experience with Linux server administration
 - 🏗️ Practical experience building Infrastructure as Code projects
